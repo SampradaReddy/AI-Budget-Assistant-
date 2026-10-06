@@ -1,0 +1,321 @@
+description,category
+Swiggy order biryani,Food
+Zomato dinner delivery,Food
+Lunch at college canteen,Food
+Chai and samosa,Food
+Dominos pizza,Food
+Groceries from DMart,Food
+BigBasket vegetables and fruits,Food
+Starbucks coffee,Food
+Breakfast idli dosa,Food
+Restaurant dinner with friends,Food
+Milk and bread,Food
+Blinkit snacks,Food
+Zepto grocery order,Food
+KFC burger meal,Food
+Hostel mess fee,Food
+Tiffin service monthly,Food
+Ice cream and juice,Food
+Bakery cake and puffs,Food
+Maggi and eggs from kirana store,Food
+Paradise biryani takeaway,Food
+Cafe sandwich and cold coffee,Food
+Uber ride to college,Transport
+Ola cab to airport,Transport
+Rapido bike taxi,Transport
+Metro card recharge,Transport
+Petrol for scooty,Transport
+Auto rickshaw fare,Transport
+TSRTC bus pass,Transport
+Train ticket IRCTC,Transport
+Bus ticket to hometown redBus,Transport
+Parking fee,Transport
+Fuel refill at HP pump,Transport
+Bike service and oil change,Transport
+Toll charges highway,Transport
+Flight ticket IndiGo,Transport
+Shared auto to metro station,Transport
+Cab fare late night,Transport
+Puncture repair,Transport
+Monthly bus pass renewal,Transport
+Amazon order headphones,Shopping
+Flipkart phone case,Shopping
+Myntra kurta and jeans,Shopping
+Ajio shoes,Shopping
+New backpack,Shopping
+Clothes from Zudio,Shopping
+Meesho dress,Shopping
+Nykaa skincare products,Shopping
+Laptop sleeve and mouse,Shopping
+Gift for friend birthday,Shopping
+Sunglasses and watch,Shopping
+Earphones boat,Shopping
+Stationery pens and notebooks,Shopping
+Shopping at mall Westside,Shopping
+Phone charger cable,Shopping
+Footwear sandals Bata,Shopping
+Home decor lamp,Shopping
+Jewellery earrings,Shopping
+Electricity bill payment,Bills
+Jio mobile recharge,Bills
+Airtel postpaid bill,Bills
+WiFi broadband ACT Fibernet,Bills
+Water bill,Bills
+Gas cylinder booking,Bills
+DTH recharge Tata Play,Bills
+Vi prepaid recharge 28 days,Bills
+Credit card bill payment,Bills
+Internet data pack,Bills
+Maintenance charges apartment,Bills
+Phone bill monthly,Bills
+Insurance premium LIC,Bills
+Laundry and dry cleaning,Bills
+iCloud storage plan,Bills
+Google One storage,Bills
+Movie tickets BookMyShow,Entertainment
+Netflix subscription,Entertainment
+Spotify premium,Entertainment
+Amazon Prime Video membership,Entertainment
+Disney Hotstar plan,Entertainment
+Concert tickets,Entertainment
+Bowling and arcade games,Entertainment
+PVR cinema popcorn,Entertainment
+Weekend trip to resort,Entertainment
+Gaming top up Steam,Entertainment
+YouTube Premium,Entertainment
+Amusement park Wonderla entry,Entertainment
+Standup comedy show,Entertainment
+College fest pass,Entertainment
+Party with friends club entry,Entertainment
+Kindle novel purchase,Entertainment
+Pharmacy medicines Apollo,Health
+Doctor consultation fee,Health
+Gym membership monthly,Health
+Blood test at lab,Health
+Dentist appointment,Health
+Eye checkup and spectacles,Health
+Vitamins and supplements,Health
+Hospital OPD charges,Health
+Yoga class fee,Health
+Medplus tablets,Health
+Physiotherapy session,Health
+Sanitary pads and toiletries,Health
+Protein powder,Health
+Health checkup package,Health
+First aid bandages and ointment,Health
+PharmEasy medicine order,Health
+College tuition fee semester,Education
+Udemy Python course,Education
+Coursera certificate,Education
+Textbooks for semester,Education
+Exam registration fee,Education
+Lab record and printouts,Education
+Xerox and spiral binding,Education
+GeeksforGeeks DSA course,Education
+Library fine,Education
+Hackathon registration fee,Education
+Coaching class CAT prep,Education
+Workshop on machine learning,Education
+NPTEL exam fee,Education
+Project components Arduino sensors,Education
+LeetCode premium,Education
+Scientific calculator,Education
+Online certification exam voucher,Education
+Hostel rent monthly,Rent
+PG accommodation rent,Rent
+Room rent October,Rent
+Flat rent share,Rent
+House rent payment to landlord,Rent
+Security deposit for room,Rent
+Rent for apartment,Rent
+Hostel fee for semester,Rent
+PG rent with food,Rent
+Monthly room rent transfer,Rent
+Rent advance paid,Rent
+Paying guest monthly charges,Rent
+ATM cash withdrawal,Other
+Money sent to friend,Other
+Donation to temple,Other
+Miscellaneous expense,Other
+Haircut at salon,Other
+Courier charges,Other
+Bank charges,Other
+Lost money,Other
+Pocket money to sibling,Other
+Charity donation NGO,Other
+Key duplicate made,Other
+Tailor alteration,Other
+Passport photo,Other
+Tips and misc,Other
+UPI transfer to cousin,Other
+Swiggy lunch order,Food
+Swiggy Instamart groceries,Food
+Zomato pizza order,Food
+Zomato order biryani,Food
+Dinner at restaurant,Food
+Lunch with friends,Food
+Breakfast at canteen,Food
+Canteen snacks and chai,Food
+Coffee at cafe,Food
+Tea and biscuits,Food
+Groceries from supermarket,Food
+Grocery shopping vegetables,Food
+Fruits and vegetables market,Food
+DMart monthly groceries,Food
+Blinkit grocery order,Food
+Zepto milk and eggs,Food
+Dominos order,Food
+McDonalds burger and fries,Food
+Biryani dinner,Food
+Snacks from bakery,Food
+Juice and sandwich,Food
+Mess fee monthly,Food
+Street food pani puri,Food
+Dosa and coffee breakfast,Food
+Uber ride home,Transport
+Uber auto to metro,Transport
+Ola ride to station,Transport
+Ola auto fare,Transport
+Rapido ride to college,Transport
+Rapido auto,Transport
+Metro ticket,Transport
+Metro recharge smart card,Transport
+Bus ticket,Transport
+Bus fare to college,Transport
+Auto fare to market,Transport
+Petrol refill,Transport
+Petrol for bike,Transport
+Fuel for scooty,Transport
+Cab to airport,Transport
+Train ticket to hometown,Transport
+IRCTC tatkal ticket,Transport
+redBus ticket booking,Transport
+Parking charges at mall,Transport
+Scooty service,Transport
+Flight ticket booking,Transport
+Amazon order books stand,Shopping
+Amazon purchase phone cover,Shopping
+Flipkart order earphones,Shopping
+Flipkart shoes,Shopping
+Myntra order tops,Shopping
+Myntra jeans,Shopping
+Ajio order kurta,Shopping
+Clothes shopping,Shopping
+New shoes,Shopping
+Dress for function,Shopping
+Meesho order,Shopping
+Nykaa order lipstick,Shopping
+Bag and wallet,Shopping
+Watch purchase,Shopping
+Mall shopping clothes,Shopping
+Headphones purchase,Shopping
+Mouse and keyboard,Shopping
+Birthday gift,Shopping
+Zudio tshirts,Shopping
+Phone cover and screen guard,Shopping
+Electricity bill,Bills
+Current bill payment,Bills
+Jio recharge,Bills
+Jio fiber bill,Bills
+Airtel recharge,Bills
+Airtel broadband bill,Bills
+Mobile recharge,Bills
+Phone recharge 84 days,Bills
+WiFi bill,Bills
+Broadband bill payment,Bills
+Internet bill,Bills
+Water bill payment,Bills
+Gas bill,Bills
+DTH recharge,Bills
+Vi recharge,Bills
+Postpaid bill payment,Bills
+Laundry charges,Bills
+Insurance premium payment,Bills
+Maintenance bill,Bills
+Movie tickets,Entertainment
+Movie with friends PVR,Entertainment
+BookMyShow tickets,Entertainment
+BookMyShow movie booking,Entertainment
+Netflix monthly plan,Entertainment
+Netflix renewal,Entertainment
+Spotify subscription,Entertainment
+Prime Video subscription,Entertainment
+Hotstar subscription,Entertainment
+YouTube Premium subscription,Entertainment
+Concert pass,Entertainment
+Gaming zone,Entertainment
+Game purchase Steam,Entertainment
+Trip with friends,Entertainment
+Party with friends,Entertainment
+Fest tickets,Entertainment
+Comedy show tickets,Entertainment
+Wonderla tickets,Entertainment
+Cinema popcorn and tickets,Entertainment
+Medicines from pharmacy,Health
+Medicines Apollo pharmacy,Health
+Medical store tablets,Health
+Doctor fee,Health
+Doctor visit consultation,Health
+Gym fee,Health
+Gym membership renewal,Health
+Blood test,Health
+Lab test charges,Health
+Dentist fee,Health
+Eye test and glasses,Health
+Hospital bill,Health
+Clinic consultation,Health
+Yoga class monthly,Health
+Medplus medicines,Health
+PharmEasy order,Health
+Vitamin tablets,Health
+Health checkup,Health
+Toiletries and sanitary pads,Health
+Tuition fee,Education
+College fee payment,Education
+Semester fee,Education
+Exam fee,Education
+Exam registration,Education
+Udemy course purchase,Education
+Coursera course subscription,Education
+Online course fee,Education
+Textbooks,Education
+Books for semester,Education
+Xerox notes,Education
+Printouts and binding,Education
+Record books and lab manual,Education
+Hackathon registration,Education
+Workshop fee,Education
+Certification exam fee,Education
+Coaching fee,Education
+CAT coaching material,Education
+Project components,Education
+Hostel rent,Rent
+Hostel rent payment,Rent
+PG rent,Rent
+PG rent monthly,Rent
+Room rent,Rent
+Room rent payment,Rent
+House rent,Rent
+Flat rent,Rent
+Rent payment,Rent
+Rent to landlord,Rent
+Monthly rent,Rent
+Apartment rent share,Rent
+Rent deposit,Rent
+Cash withdrawal ATM,Other
+ATM withdrawal,Other
+Sent money to friend,Other
+Transfer to friend UPI,Other
+UPI transfer,Other
+Donation,Other
+Temple donation,Other
+Misc expense,Other
+Miscellaneous,Other
+Haircut,Other
+Salon and parlour,Other
+Courier parcel charges,Other
+Bank fee,Other
+Money given to sibling,Other
+Tailor stitching charges,Other
+Photo prints,Other
+Tips,Other
