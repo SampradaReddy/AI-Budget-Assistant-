@@ -15,7 +15,7 @@ load_dotenv(ROOT_DIR / ".env")
 DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{(DATA_DIR / 'budget.db').as_posix()}")
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.6-flash").strip()
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite").strip()
 
 CURRENCY = os.getenv("CURRENCY_SYMBOL", "₹")
 
